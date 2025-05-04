@@ -4,9 +4,9 @@
 #include <unordered_map>
 #include <cstdint>
 
-#include "qam_mod.h"
-#include "model_channel.h"
-#include "qam_demod.h"
+#include "../include/qam_mod.h"
+#include "../include/model_channel.h"
+#include "../include/qam_demod.h"
 
 double BER(std::vector<uint8_t>tx, std::vector<uint8_t>rx){
     int k = 0;

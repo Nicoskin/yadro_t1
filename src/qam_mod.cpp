@@ -1,5 +1,5 @@
-﻿#include "qam_mod.h"
-#include "qam_maps.h"
+﻿#include "../include/qam_mod.h"
+#include "../include/qam_maps.h"
 #include <iostream>
 
 

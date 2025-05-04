@@ -1,4 +1,4 @@
-﻿#include "model_channel.h"
+﻿#include "../include/model_channel.h"
 
 using cd = std::complex<double>;
 

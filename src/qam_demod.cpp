@@ -1,6 +1,6 @@
-﻿#include "qam_demod.h"
-#include "qam_mod.h"
-#include "qam_maps.h"
+﻿#include "../include/qam_demod.h"
+#include "../include/qam_mod.h"
+#include "../include/qam_maps.h"
 
 namespace {
     using cd = std::complex<double>;
